@@ -1,0 +1,72 @@
+i want to buy something
+Okey, what are you interested in? We offer e-bikes, mountainbikes and citybikes.
+i want to buy bikes
+We have three kind of bikes. E-Bikes, mountainbikes and citybikes.
+citybikes
+The prices for citybikes starts from 300$. What color do you like?
+mountainbikes 
+The prices for citybikes starts from 600$. What color do you like?
+ebikes
+The prices for citybikes starts from 800$. What color do you like?
+i want to buy citybikes
+We have citybikes starting from 300$. What color do you like?
+i want to buy mountainbikes
+We have mountainbikes starting from 300$. What color do you like?
+i want to buy e-bikes
+We have e-bikes starting from 300$. What color do you like?
+i want to buy ebikes
+We have e-bikes starting from 300$. What color do you like?
+red
+Should I order a red bike for you?
+blue
+Should I order a blue bike for you?
+black
+Should I order a black bike for you?
+yellow
+Should I order a yellow bike for you?
+brown
+Should I order a brown bike for you?
+green
+Should I order a green bike for you?
+i like red bikes
+Should I order a red bike for you?
+i like blue bikes
+Should I order a blue bike for you?
+i like black bikes
+Should I order a black bike for you?
+i like pink bikes
+Should I order a pink bike for you?
+i like violet bikes
+Should I order a violet bike for you?
+i like yellow bikes
+Should I order a yellow bike for you?
+i like green bikes
+Should I order a green bike for you?
+do you have any discount?
+Unfortunately our prices are fixed
+discount?
+Unfortunately our prices are fixed
+are there discounts?
+Unfortunately our rates are fixed
+do I get a discount?
+Unfortunately our rates are fixed
+do I get a perk
+Our prices are fixed
+do I get a reduction
+Unfortunately our prices are fixed
+can I get a discount
+Unfortunately our prices are fixed
+can I have a discount
+Unfortunately our prices are fixed
+i want to buy a red bike
+Should I order a red bike for you?
+what is the temperature now
+I dont have a temperature sensor
+what is the temperature today
+I dont know
+i need a bike
+Okey, what are you interested in? We offer e-bikes, mountainbikes and citybikes.
+yes
+Okey alright
+yes please
+Okey alright
